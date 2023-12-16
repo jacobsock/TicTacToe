@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="back_button_text">Back</string>
+
+    <string name="sign_out_button_text">Sign Out</string>
+
+    <string name="rules_button_text">Rules</string>
+    <string name="history_button_text">History</string>
+    <string name="strategy_button_text">Strategy</string>
+
+    <string name="rules_activity_text">Rules Activity!</string>
+    <string name="history_activity_text">History Activity!</string>
+    <string name="strategy_activity_text">Strategy Activity!</string>
+
+    <string name="bottom_left">Bottom Left</string>
+    <string name="top_left">Top Left</string>
+    <string name="middle_right">Middle Right</string>
+    <string name="middle_middle">Middle Middle</string>
+    <string name="middle_left">Middle Left</string>
+    <string name="top_right">Top Right</string>
+    <string name="top_middle">Top Middle</string>
+    <string name="bottom_middle">Bottom Middle</string>
+    <string name="bottom_right">Bottom Right</string>
+
+    <string name="player_1_turn_text">Player 1 turn using X</string>
+    <string name="player_2_turn_text">Player 2 turn using O</string>
+    <string name="player_1_won_text">Player 1, you won!</string>
+    <string name="player_2_won_text">Player 2, you won!</string>
+    <string name="game_draw_text">Draw!</string>
+
+    <string name="reset_button_text">Reset Game</string>
+
+    <string name="location_text_view_text">Location</string>
+    <string name="state_text_view_text">StateTextView</string>
+    <string name="your_logged_in_as_text_view_text">Your Logged In As</string>
+    <string name="email_text_view_text">Email</string>
+    <string name="total_user_games_played_text_view_text">N/A</string>
+    <string name="total_games_played_text_view_text">N/A</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
